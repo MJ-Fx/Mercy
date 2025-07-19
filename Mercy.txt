@@ -1,0 +1,22 @@
+Mercy/
+├── index.html          # Homepage
+├── about.html          # About page
+├── services.html       # Services page
+├── contact.html        # Contact page
+├── education.html      # Beauty product education page
+├── styles.css          # Main stylesheet
+├── animations.js       # Animation and interaction scripts
+├── images/             # Directory for all images
+│   ├── hero-bg.jpg     # Hero background
+│   ├── stylist1.jpg    # Portfolio image 1
+│   ├── stylist2.jpg    # Portfolio image 2
+│   ├── stylist3.jpg    # Portfolio image 3
+│   ├── service1.jpg    # Service image 1
+│   ├── service2.jpg    # Service image 2
+│   ├── service3.jpg    # Service image 3
+│   ├── social-icons/   # Social media icons
+│   │   ├── facebook.png
+│   │   ├── instagram.png
+│   │   ├── tiktok.png
+│   │   └── whatsapp.png
+│   └── logo.png        # Business logo
